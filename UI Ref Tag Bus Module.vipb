@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-10-07 15:31:40" Modified_Date="2014-12-02 18:20:27" Creator="Daniel" Comments="" ID="e0a26ee09ace0c62c3d4a0badad41b13">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-10-07 15:31:40" Modified_Date="2014-12-02 18:45:53" Creator="Daniel" Comments="" ID="0d7986f79293fa856c61ddba51eaaf74">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm_UIref</Package_File_Name>
-    <Library_Version>2.0.0.1</Library_Version>
+    <Library_Version>2.0.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\modules\UI</Library_Output_Folder>
