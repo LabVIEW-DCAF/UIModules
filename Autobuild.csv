@@ -1,4 +1,1 @@
-vi	build tools\BUILD_install dependencies.vi
-vi	build tools\BUILD_uninstall.vi
-vip	source\UI Ref Tag Bus Module.vipb
-vi	build tools\BUILD_install upload.vi
+vipb	source\UI Ref Tag Bus Module.vipb	testinstall	upload=platypus
