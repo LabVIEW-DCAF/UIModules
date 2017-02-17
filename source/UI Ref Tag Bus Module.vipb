@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-10-07 15:31:40" Modified_Date="2016-12-13 15:05:14" Creator="Daniel" Comments="" ID="59e634b8d11e7ec39d3008b474951d68">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-10-07 15:31:40" Modified_Date="2017-02-17 12:48:15" Creator="Daniel" Comments="" ID="66cc07f9501aaac78e2199c2093be5e8">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_uiref</Package_File_Name>
-    <Library_Version>2.2.0.2</Library_Version>
+    <Library_Version>2.2.1.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\modules\UI</Library_Output_Folder>
@@ -34,7 +34,8 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL/>
-      <Release_Notes>DCAF 1.1 Release</Release_Notes>
+      <Release_Notes>DCAF 1.1 Release
+-fixes https://github.com/LabVIEW-DCAF/UIModules/issues/14</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
