@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-10-07 15:31:40" Modified_Date="2017-05-02 17:17:22" Creator="Daniel" Comments="" ID="a7c30388626ed037f1861b943ec9388a">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-10-07 15:31:40" Modified_Date="2017-05-03 16:35:36" Creator="Daniel" Comments="" ID="10796c1d9824fad16970f46fccac6499">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_uiref</Package_File_Name>
-    <Library_Version>2.3.0.6</Library_Version>
+    <Library_Version>2.3.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\modules\UI</Library_Output_Folder>
