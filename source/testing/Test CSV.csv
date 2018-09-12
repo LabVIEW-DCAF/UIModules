@@ -1,6 +1,6 @@
-String out,Write to HW,String,String out
-String in,Read from HW,String,
-Boolean out,Write to HW,Boolean,Boolean out
-Boolean in,Read from HW,Boolean,
-Numeric out,Write to HW,Double,Numeric out
-Numeric in,Read from HW,Double,
+String ind,Write to Indicator,String,String ind
+String ctl,Read from Control,String,
+Boolean ind,Write to Indicator,Boolean,Boolean ind
+Boolean ctl,Read from Control,Boolean,
+Double ind,Write to Indicator,Double,Double ind
+Double ctl,Read from Control,Double,
