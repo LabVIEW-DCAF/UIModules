@@ -3,7 +3,7 @@
 
 //Modify the below parameters to match the values for this particular repo
 
-def utfPaths = ["source\\UI reference module dev.lvproj"]
+def utfPaths = ["source\\UI Reference.lvproj"]
 def vipbPaths = ["source\\UI Ref Tag Bus Module.vipb"]
 def lvVersion = "14.0"
 
