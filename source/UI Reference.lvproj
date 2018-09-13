@@ -22,41 +22,41 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Unit Test Framework Tests" Type="Folder">
-			<Item Name="Add Remove Test.lvtest" Type="TestItem" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2014/ProjectTemplates/Source/dcaf plugin/Dynamic/testing/Add Remove Test.lvtest">
+			<Item Name="Add Remove Test.lvtest" Type="TestItem" URL="../testing/Add Remove Test.lvtest">
 				<Property Name="utf.test.bind" Type="Str">UI Reference tests.lvlib:Add Remove Test.vi</Property>
-				<Property Name="utf.vector.test.bind" Type="Str">4F6726F9-B7CF-3238-DE79-D6F17589CE6F</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">516EE377-F101-0DCD-26D1-0D3F37DB63F7</Property>
 			</Item>
-			<Item Name="config crosslink test.lvtest" Type="TestItem" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2014/ProjectTemplates/Source/dcaf plugin/Dynamic/testing/config crosslink test.lvtest">
+			<Item Name="config crosslink test.lvtest" Type="TestItem" URL="../testing/config crosslink test.lvtest">
 				<Property Name="utf.test.bind" Type="Str">UI Reference tests.lvlib:config crosslink test.vi</Property>
-				<Property Name="utf.vector.test.bind" Type="Str">4DF22CF4-52A5-AF80-E36C-C6B36BD32654</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">A478736C-EB82-49B2-92FD-4985154292E2</Property>
 			</Item>
-			<Item Name="Duplicate Name Error Test.lvtest" Type="TestItem" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2014/ProjectTemplates/Source/dcaf plugin/Dynamic/testing/Duplicate Name Error Test.lvtest">
+			<Item Name="Duplicate Name Error Test.lvtest" Type="TestItem" URL="../testing/Duplicate Name Error Test.lvtest">
 				<Property Name="utf.test.bind" Type="Str">UI Reference tests.lvlib:Duplicate Name Error Test.vi</Property>
-				<Property Name="utf.vector.test.bind" Type="Str">CFF9CC5F-2374-BCC9-7C2D-7AB0AE8A9B3C</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">492DA2D4-910A-8A0F-C459-4E0707C69838</Property>
 			</Item>
-			<Item Name="get channels test.lvtest" Type="TestItem" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2014/ProjectTemplates/Source/dcaf plugin/Dynamic/testing/get channels test.lvtest">
+			<Item Name="get channels test.lvtest" Type="TestItem" URL="../testing/get channels test.lvtest">
 				<Property Name="utf.test.bind" Type="Str">UI Reference tests.lvlib:get channels test.vi</Property>
-				<Property Name="utf.vector.test.bind" Type="Str">374EABA3-BFD5-3BE3-7F03-A2E1270B61A0</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">263147B2-6F87-B83E-4EB2-71371785C179</Property>
 			</Item>
-			<Item Name="init runtime test.lvtest" Type="TestItem" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2014/ProjectTemplates/Source/dcaf plugin/Dynamic/testing/init runtime test.lvtest">
+			<Item Name="init runtime test.lvtest" Type="TestItem" URL="../testing/init runtime test.lvtest">
 				<Property Name="utf.test.bind" Type="Str">UI Reference tests.lvlib:init runtime test.vi</Property>
-				<Property Name="utf.vector.test.bind" Type="Str">88015061-B821-199F-72CE-9F744CB094EF</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">0D83DEB8-5B23-F28A-5E26-D4D68BB5BB79</Property>
 			</Item>
-			<Item Name="modify channel test.lvtest" Type="TestItem" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2014/ProjectTemplates/Source/dcaf plugin/Dynamic/testing/modify channel test.lvtest">
+			<Item Name="modify channel test.lvtest" Type="TestItem" URL="../testing/modify channel test.lvtest">
 				<Property Name="utf.test.bind" Type="Str">UI Reference tests.lvlib:modify channel test.vi</Property>
-				<Property Name="utf.vector.test.bind" Type="Str">4341B990-AD0E-19E2-83DD-34572ACC8AE7</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">43C085AA-0A95-7E33-66A1-84A8C8E7A961</Property>
 			</Item>
-			<Item Name="serialization tests.lvtest" Type="TestItem" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2014/ProjectTemplates/Source/dcaf plugin/Dynamic/testing/serialization tests.lvtest">
+			<Item Name="serialization tests.lvtest" Type="TestItem" URL="../testing/serialization tests.lvtest">
 				<Property Name="utf.test.bind" Type="Str">UI Reference tests.lvlib:serialization tests.vi</Property>
-				<Property Name="utf.vector.test.bind" Type="Str">426BCB85-35F1-7306-1012-4CDF83E375C7</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">794F04E0-D8EB-6036-72B4-B1C6A423089B</Property>
 			</Item>
-			<Item Name="To and From Array Test.lvtest" Type="TestItem" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2014/ProjectTemplates/Source/dcaf plugin/Dynamic/testing/To and From Array Test.lvtest">
+			<Item Name="To and From Array Test.lvtest" Type="TestItem" URL="../testing/To and From Array Test.lvtest">
 				<Property Name="utf.test.bind" Type="Str">UI Reference tests.lvlib:To and From Array Test.vi</Property>
-				<Property Name="utf.vector.test.bind" Type="Str">B8786979-26E8-6AC8-9AC9-AF6EF480CE64</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">D0FBE18D-FBFC-8AD9-911A-F60070A954F7</Property>
 			</Item>
-			<Item Name="To and From CSV Test.lvtest" Type="TestItem" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2014/ProjectTemplates/Source/dcaf plugin/Dynamic/testing/To and From CSV Test.lvtest">
+			<Item Name="To and From CSV Test.lvtest" Type="TestItem" URL="../testing/To and From CSV Test.lvtest">
 				<Property Name="utf.test.bind" Type="Str">UI Reference tests.lvlib:To and From CSV Test.vi</Property>
-				<Property Name="utf.vector.test.bind" Type="Str">B64E049B-61C2-C70E-8A15-13C29B26F6AA</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">8F233736-9E36-A364-6A30-EE2D9B658BCD</Property>
 			</Item>
 		</Item>
 		<Item Name="UI Reference tests.lvlib" Type="Library" URL="../testing/UI Reference tests.lvlib"/>
