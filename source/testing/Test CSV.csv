@@ -1,0 +1,6 @@
+String ind,Write to Indicator,String,String ind
+String ctl,Read from Control,String,
+Boolean ind,Write to Indicator,Boolean,Boolean ind
+Boolean ctl,Read from Control,Boolean,
+Double ind,Write to Indicator,Double,Double ind
+Double ctl,Read from Control,Double,
