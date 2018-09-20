@@ -20,7 +20,7 @@ Channels can be individually added or removed from the configuration by selectin
 
 ### Import/Export Configuration
 
-![Configuration_Import_Export](Documentation/Configuration_Import_Export.jpg)
+![Configuration_Import_Export](Documentation/Configuration_Import_Export.png)
 
 **Export**: Export current module configuration to a CSV file. You will be prompted by a file dialog to select the name and location of this exported file.
 
