@@ -27,10 +27,9 @@ Channels can be individually added or removed from the configuration by selectin
 **Import**: Select CSV file to import. This will completely replace the current channel configuration which means the current configuration will be lost.
 
 # Limitations
-- Requires each mapped control/indicator has a unique label.  Duplicate labels can cause issues when we look up the index of the control/indicator.  Note that you can give each control/indicator a unique label and have different displayed captions.
+- Requires each mapped control/indicator to have a unique label.  Note that you can give each control/indicator a unique label and have different displayed captions.
 - Does not support cluster data types
 - Does not support subpanels directly (a UI Reference Module for each running subpanel VI would need to be instantiated)
-- Versions prior to 2.0.2.4 did not recurse through tab controls.  Please upgrade to a later version than 2.0.2.4 if you need this support
 - Requires Embedded UI to be enabled for use on LinuxRT targets.  Lack of an enabled embedded UI will result in runtime errors.
 - Latest value only - no event-based interface.  All values are read and written every time the engine iterates, regardless of whether they have changed or not.
 
