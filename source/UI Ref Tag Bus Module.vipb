@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-10-07 15:31:40" Modified_Date="2019-02-15 20:15:26" Creator="Daniel" Comments="" ID="2fce4d80993dd467c988077b63496bc2">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-10-07 15:31:40" Modified_Date="2019-02-18 15:57:21" Creator="Daniel" Comments="" ID="d3d537c550c05de66c5fca800adad641">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_uiref</Package_File_Name>
-    <Library_Version>2.2.0.2</Library_Version>
+    <Library_Version>3.0.1.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\modules\UI</Library_Output_Folder>
@@ -34,7 +34,8 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL/>
-      <Release_Notes/>
+      <Release_Notes>Updated to 2015
+Minor bug fixes</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
